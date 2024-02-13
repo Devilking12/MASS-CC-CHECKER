@@ -39,4 +39,7 @@ Note: You can use any hosting.
 
 <h4 align='center'>© 2023 ツ ѕнєкнєя</h4>
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Devilking12/MASS-CC-CHECKER)
+
+
 <!-- DO NOT REMOVE THIS CREDIT 🤬 🤬 -->
